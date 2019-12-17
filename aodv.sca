@@ -1,0 +1,180 @@
+run run-1576559237
+attr experiment "wifi-distance-test"
+attr strategy "wifi-default"
+attr measurement "1000"
+attr description ""
+attr "author" "2017210600-liyi"
+
+scalar . measurement "1000"
+scalar node[0] wifi-tx-frames 93
+scalar node[1] wifi-tx-frames 135
+scalar node[2] wifi-tx-frames 153
+scalar node[3] wifi-tx-frames 131
+scalar node[4] wifi-tx-frames 144
+scalar node[5] wifi-tx-frames 127
+scalar node[6] wifi-tx-frames 139
+scalar node[7] wifi-tx-frames 135
+scalar node[8] wifi-tx-frames 114
+scalar node[9] wifi-tx-frames 86
+scalar node[90] wifi-rx-frames 175
+scalar node[91] wifi-rx-frames 184
+scalar node[92] wifi-rx-frames 170
+scalar node[93] wifi-rx-frames 187
+scalar node[94] wifi-rx-frames 204
+scalar node[95] wifi-rx-frames 206
+scalar node[96] wifi-rx-frames 187
+scalar node[97] wifi-rx-frames 148
+scalar node[98] wifi-rx-frames 135
+scalar node[99] wifi-rx-frames 110
+scalar node[0] sender-tx-packets 30
+scalar node[1] sender-tx-packets 30
+scalar node[2] sender-tx-packets 30
+scalar node[3] sender-tx-packets 30
+scalar node[4] sender-tx-packets 30
+scalar node[5] sender-tx-packets 30
+scalar node[6] sender-tx-packets 30
+scalar node[7] sender-tx-packets 26
+scalar node[8] sender-tx-packets 20
+scalar node[9] sender-tx-packets 14
+scalar node[90] receiver-rx-packets 28
+scalar node[91] receiver-rx-packets 28
+scalar node[92] receiver-rx-packets 29
+scalar node[93] receiver-rx-packets 25
+scalar node[94] receiver-rx-packets 29
+scalar node[95] receiver-rx-packets 28
+scalar node[96] receiver-rx-packets 28
+scalar node[97] receiver-rx-packets 26
+scalar node[98] receiver-rx-packets 17
+scalar node[99] receiver-rx-packets 14
+statistic node[0] tx-pkt-size
+field count 30
+field sum 1920
+field mean 64
+field min 64
+field max 64
+field sqrsum 122880
+field stddev 0
+statistic node[1] tx-pkt-size
+field count 30
+field sum 1920
+field mean 64
+field min 64
+field max 64
+field sqrsum 122880
+field stddev 0
+statistic node[2] tx-pkt-size
+field count 30
+field sum 1920
+field mean 64
+field min 64
+field max 64
+field sqrsum 122880
+field stddev 0
+statistic node[3] tx-pkt-size
+field count 30
+field sum 1920
+field mean 64
+field min 64
+field max 64
+field sqrsum 122880
+field stddev 0
+statistic node[4] tx-pkt-size
+field count 30
+field sum 1920
+field mean 64
+field min 64
+field max 64
+field sqrsum 122880
+field stddev 0
+statistic node[5] tx-pkt-size
+field count 30
+field sum 1920
+field mean 64
+field min 64
+field max 64
+field sqrsum 122880
+field stddev 0
+statistic node[6] tx-pkt-size
+field count 30
+field sum 1920
+field mean 64
+field min 64
+field max 64
+field sqrsum 122880
+field stddev 0
+statistic node[7] tx-pkt-size
+field count 26
+field sum 1664
+field mean 64
+field min 64
+field max 64
+field sqrsum 106496
+field stddev 0
+statistic node[8] tx-pkt-size
+field count 20
+field sum 1280
+field mean 64
+field min 64
+field max 64
+field sqrsum 81920
+field stddev 0
+statistic node[9] tx-pkt-size
+field count 14
+field sum 896
+field mean 64
+field min 64
+field max 64
+field sqrsum 57344
+field stddev 0
+scalar . delay0-count 28
+scalar . delay0-total 5395467605
+scalar . delay0-average 192695271
+scalar . delay0-max 2087292115
+scalar . delay0-min 15586015
+scalar . delay1-count 28
+scalar . delay1-total 5297024165
+scalar . delay1-average 189179434
+scalar . delay1-max 2050568755
+scalar . delay1-min 19872685
+scalar . delay2-count 29
+scalar . delay2-total 5072072745
+scalar . delay2-average 174899060
+scalar . delay2-max 2012619405
+scalar . delay2-min 14826015
+scalar . delay3-count 25
+scalar . delay3-total 657918005
+scalar . delay3-average 26316720
+scalar . delay3-max 81452715
+scalar . delay3-min 18712685
+scalar . delay4-count 29
+scalar . delay4-total 5676971880
+scalar . delay4-average 195757651
+scalar . delay4-max 2033304735
+scalar . delay4-min 15286015
+scalar . delay5-count 28
+scalar . delay5-total 5403232890
+scalar . delay5-average 192972603
+scalar . delay5-max 2031510745
+scalar . delay5-min 19092685
+scalar . delay6-count 28
+scalar . delay6-total 5546663120
+scalar . delay6-average 198095111
+scalar . delay6-max 2048148105
+scalar . delay6-min 23999355
+scalar . delay7-count 26
+scalar . delay7-total 5781946910
+scalar . delay7-average 222382573
+scalar . delay7-max 2012225395
+scalar . delay7-min 20112685
+scalar . delay8-count 17
+scalar . delay8-total 5964915915
+scalar . delay8-average 350877406
+scalar . delay8-max 2995909375
+scalar . delay8-min 19012685
+scalar . delay9-count 14
+scalar . delay9-total 5503692020
+scalar . delay9-average 393120858
+scalar . delay9-max 2023957405
+scalar . delay9-min 26485355
+
+
